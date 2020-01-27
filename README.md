@@ -1,0 +1,2 @@
+# JS-Watch
+Uma pequena aplicação utilizando JavaScript, HTML e CSS.  JS Watch é uma aplicação web onde mostra uma interface que se altera de acordo com o horário que o usurário acessou. Uma mensagem de saudação em Português, inglês e em japonês é exibida na parte superior. Logo abaixo temos uma imagem representando o instante do dia e um plano de fundo que possui uma coloração que remete a mesma da imagem. Por fim temos o horário acessado e minhas informações.
