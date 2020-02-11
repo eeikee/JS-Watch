@@ -1,0 +1,26 @@
+body{
+    background: rgb(34, 57, 126);
+    font: normal 15pt Arial;
+}
+header{
+    color: seashell;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+section{
+    background: seashell;
+    border-radius: 10px;
+    padding: 30px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.151);
+}
+footer{
+    color: seashell;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 2px 2px 2px black;
+}
